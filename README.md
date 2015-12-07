@@ -9,3 +9,4 @@ Please send pull requests! Include the name of the microprocessor and where it i
 - Neural Net CPU, from the [Terminator](http://terminator.wikia.com/wiki/Neural_Net_CPU) universe.
 - PEDOT biochip, from the [Deux Ex](http://deusex.wikia.com/wiki/Biochip) universe.
 - Positronic brain, from  [Isaac Asimov's novels](https://en.wikipedia.org/wiki/Positronic_brain)
+- TIS-100 "Tessellated Intelligence System", from [TIS-100](https://en.wikipedia.org/wiki/TIS-100)
