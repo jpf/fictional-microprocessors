@@ -10,3 +10,4 @@ Please send pull requests! Include the name of the microprocessor and where it i
 - Neurochip, from [Ghost In The Shell](http://ghostintheshell.wikia.com/wiki/Neurochip)
 - PEDOT biochip, from the [Deux Ex](http://deusex.wikia.com/wiki/Biochip) universe.
 - Positronic brain, from  [Isaac Asimov's novels](https://en.wikipedia.org/wiki/Positronic_brain)
+- TIS-100 "Tessellated Intelligence System", from [TIS-100](https://en.wikipedia.org/wiki/TIS-100)
